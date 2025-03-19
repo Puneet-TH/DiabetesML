@@ -7,4 +7,5 @@ So far we have used :
 > Currently trying XGBoost (Extreme Gradient Boosting)
 > first used 1lakh entries dataset then switched to PIMA dataset for diabetes since this was for research purpose.
 
-Any modification
+Any modification request is acceptable.
+
